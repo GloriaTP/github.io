@@ -1,9 +1,9 @@
 # github.io
 Personal Repository
-# 👋 Hi, I'm [Tu Nombre]
+# 👋 Hi, I'm [Gloria]
 
-**[Tu puesto, ej. Full Stack Developer | Data Analyst]** based in [Ciudad, País]
-[Una o dos líneas sobre qué haces y qué tipo de problemas te gusta resolver.]
+**[Data Analyst]** based in [Monterrey, N.L:]
+[Data cleanning, Data Visualization and PowerBI]
 
 ## 🛠️ Tech Stack
 
