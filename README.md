@@ -18,25 +18,15 @@ Personal Repository
 
 | Project | Description | Tech |
 |---------|-------------|------|
-| [**Nombre del proyecto 1**](https://github.com/usuario/repo1) | Qué hace y qué problema resuelve en una línea. | React, Node.js |
-| [**Nombre del proyecto 2**](https://github.com/usuario/repo2) | Qué hace y qué problema resuelve en una línea. | Python, Pandas |
-| [**Nombre del proyecto 3**](https://github.com/usuario/repo3) | Qué hace y qué problema resuelve en una línea. | JavaScript, API REST |
+| [**Multichannel Sales Analysis – LATAM Retail Business Case**](https://github.com/usuario/repo1) |Business case as a Data Analyst for a multichannel retail company operating in Latin America. Built an end-to-end analysis workflow in Python (Jupyter Notebook): data loading, exploratory data analysis, data cleaning, task automation, data visualization, outlier detection and sales segmentation | SQL, Python|
+| [**EverPeak Retail Analysis – Data Cleaning, EDA & Outlier Detection**](https://github.com/usuario/repo2) | Data analysis case study for EverPeak, a retail company, working with a dataset of 2,000 customer orders intentionally designed to mirror real-world data issues: missing values, sentinel values, outliers and data quality problems | Python, Pandas |
 
-## 💼 Experience
 
-- **[Puesto]** at **[Empresa]** *(Año – Año)*: logro o responsabilidad principal.
-- **[Puesto]** at **[Empresa]** *(Año – Año)*: logro o responsabilidad principal.
-
-## 🎓 Education
-
-- **[Título]**, [Universidad] *(Año – Año)*
 
 ## 📫 Contact
 
-- LinkedIn: [linkedin.com/in/tuusuario](https://linkedin.com/in/tuusuario)
-- Email: tucorreo@ejemplo.com
-- Portfolio: [tuusuario.github.io](https://tuusuario.github.io)
+- LinkedIn: [linkedin.com/in/tuusuario](www.linkedin.com/in/gloria-cantu-41a882198)
 
 ## 📊 GitHub Stats
 
-![Stats](https://github-readme-stats.vercel.app/api?username=tuusuario&show_icons=true)
+![Stats](https://github-readme-stats.vercel.app/api?username=GloriaTP&show_icons=true)
