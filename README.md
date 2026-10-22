@@ -17,8 +17,8 @@ Personal Repository
 
 | Project | Description | Tech |
 |---------|-------------|------|
-| [**Multichannel Sales Analysis – LATAM Retail Business Case**](https://github.com/usuario/repo1) |Business case as a Data Analyst for a multichannel retail company operating in Latin America. Built an end-to-end analysis workflow in Python (Jupyter Notebook): data loading, exploratory data analysis, data cleaning, task automation, data visualization, outlier detection and sales segmentation | SQL, Python|
-| [**EverPeak Retail Analysis – Data Cleaning, EDA & Outlier Detection**](https://github.com/usuario/repo2) | Data analysis case study for EverPeak, a retail company, working with a dataset of 2,000 customer orders intentionally designed to mirror real-world data issues: missing values, sentinel values, outliers and data quality problems | Python, Pandas |
+| [**Multichannel Sales Analysis – LATAM Retail Business Case**](https://github.com/GloriaTP/Caso-de-Negocios---Venta-Multicanal---LATAM) |Business case as a Data Analyst for a multichannel retail company operating in Latin America. Built an end-to-end analysis workflow in Python (Jupyter Notebook): data loading, exploratory data analysis, data cleaning, task automation, data visualization, outlier detection and sales segmentation | SQL, Python|
+| [**EverPeak Retail Analysis – Data Cleaning, EDA & Outlier Detection**](https://github.com/GloriaTP/Analysis-Everpeak) | Data analysis case study for EverPeak, a retail company, working with a dataset of 2,000 customer orders intentionally designed to mirror real-world data issues: missing values, sentinel values, outliers and data quality problems | Python, Pandas |
 
 
 
