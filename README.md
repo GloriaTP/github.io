@@ -24,7 +24,7 @@ Personal Repository
 
 ## 📫 Contact
 
-- LinkedIn: [linkedin.com/in/tuusuario](www.linkedin.com/in/gloria-cantu-41a882198)
+- LinkedIn: [linkedin](www.linkedin.com/in/gloria-cantu-41a882198)
 
 ## 📊 GitHub Stats
 
